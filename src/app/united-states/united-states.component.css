@@ -1,0 +1,13 @@
+.flex-box{
+    display: flex;
+    background-color: cornsilk;
+    border: 1px solid black;
+}
+.flex-box div{
+    flex:1;
+    padding: 5px;
+}
+.flex-box div:nth-child(1){
+
+    border-right: 1px solid black;
+}

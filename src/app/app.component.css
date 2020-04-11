@@ -1,0 +1,17 @@
+.flex-box{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.flex-box li{
+    margin-left: 5px;
+}
+.nav-bar ul{
+    padding: 0px;
+    list-style-type: none;
+}
+.nav-bar li{
+    display: inline-block;
+}

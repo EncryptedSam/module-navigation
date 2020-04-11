@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+/* .nav-bar ul{
+    padding: 0px;
+    list-style-type: none;
+}
+.nav-bar li{
+    display: inline-block;
+}
+
+.mr li{
+    margin-right: 5px;
+} */
+
+ul{
+    list-style-type: none;
+    
+}
